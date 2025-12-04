@@ -15,12 +15,18 @@ The Badlion Client itself still functions **online** (multiplayer, cosmetics, an
 #### **Version 4.5.9**
 - **Installer:** [`Badlion_Client_v4.5.9.exe`](https://github.com/sxqkov/badlion-client/releases/download/minecraft/Badlion_Client_v4.5.9.exe)
 - **SHA-256:** `d072d52795776aca9ad74682422c050f48636931508562c05a472a6447957277`
-- **VirusTotal Scan:** [View Analysis](https://www.virustotal.com/gui/file/d072d52795776aca9ad74682422c050f48636931508562c05a472a6447957277)
+- **VirusTotal Scan:** [Analysis](https://www.virustotal.com/gui/file/d072d52795776aca9ad74682422c050f48636931508562c05a472a6447957277)
 
 #### **Version 4.5.8**
 - **Installer:** [`Badlion_Client_v4.5.8.exe`](https://github.com/sxqkov/badlion-client/releases/download/minecraft/Badlion_Client_v4.5.8.exe)
 - **SHA-256:** `cb099d7081281c492c613d0cbaeb3c1ddc493b69df00f69a8b480f07e17809d5`
-- **VirusTotal Scan:** [View Analysis](https://www.virustotal.com/gui/file/cb099d7081281c492c613d0cbaeb3c1ddc493b69df00f69a8b480f07e17809d5)
+- **VirusTotal Scan:** [Analysis](https://www.virustotal.com/gui/file/cb099d7081281c492c613d0cbaeb3c1ddc493b69df00f69a8b480f07e17809d5)
+
+#### **Version 4.4.0** 
+
+- **Installer:** [`Badlion Client v4.4.0.exe`](https://drive.google.com/file/d/1ghV00WOx8HJu_3OvNVbMTbAX5SA4iR0t/view?usp=sharing) 
+- **VirusTotal Scan:** [Analysis](https://www.virustotal.com/gui/file/df1dc6af8819034c43c6e0b5131ef552e119b017ca3b7c0ef50d162a8a5afa51)
+> **⚠️ Got it from [TalesOfJDL](https://github.com/TalesOfJDL/Badlion-Client-Installer-v4.4.0) github, so im not responsible for this version**
 
 > **⚠️ Important:** Always verify the file hash and scan downloads with an antivirus before running.
 
@@ -45,9 +51,9 @@ The Badlion Client itself still functions **online** (multiplayer, cosmetics, an
 
 ---
 
-### ℹ️ Notes & Disclaimer
+### ℹ️ Notes
 
 - This is an **unofficial, community-preserved archive**. It is not affiliated with or endorsed by Badlion Client or Lunar Client.
+- This is not an official mirror. It is for archival and preservation purposes only.
 - All rights to the Badlion Client belong to their respective owners.
-- This archive is maintained for historical and preservation purposes.
 - Original archival credit: [TalesOfJDL](https://github.com/TalesOfJDL).
