@@ -13,7 +13,7 @@ The Badlion Client itself still functions **online** (multiplayer, cosmetics, an
 ### 📥 Download Links
 
 #### **Version 4.5.9**
-- **Installer:** [`Badlion_Client_v4.5.9.exe`](https://github.com/sxqkov/badlion-client/releases/download/badlion/Badlion_Client_v4.5.9.exe)
+- **Installer:** [`Badlion_Client_v4.5.9.exe`](https://github.com/sxqkov/badlion-client/releases/download/badlion/Badlion.Client.Setup.4.5.9.exe)
 - **SHA-256:** `d072d52795776aca9ad74682422c050f48636931508562c05a472a6447957277`
 - **VirusTotal Scan:** [Analysis](https://www.virustotal.com/gui/file/d072d52795776aca9ad74682422c050f48636931508562c05a472a6447957277)
 
